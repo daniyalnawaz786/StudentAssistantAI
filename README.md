@@ -46,6 +46,17 @@ Open your terminal and run:
 
 pip install requests
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/07f46328-a1fe-4cb8-b1b7-ccb1ac74e1a8" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/50fad044-4e09-4921-a47f-23b6f01a79cf" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7f647d48-aef0-40d9-8cab-9b082db39307" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2f21dbb6-2d6d-4c98-be99-849d2721d3cf" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/80f6db5d-d939-448f-a80c-00b983218b2c" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/287947ba-405b-4fae-a209-9cf6d470e146" />
+
+
+
+
+
 
 
 
